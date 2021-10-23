@@ -26,7 +26,7 @@ CMD ["./counting-service"]
 
 to load this image you can use the command:
 Example command to run:                                         
->docker load -i amitshochat66_app-count:1.0.0.tar
+>docker load -i amitshochat66_app-dashboard:1.0.0.tar
 
 to build 
 Example command to run:                                         
