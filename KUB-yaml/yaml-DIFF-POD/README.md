@@ -4,5 +4,5 @@
 
 
 Example command to run:                                         
->kubectl apply -f  youryamlfile.yaml  
+>kubectl apply -f  https://raw.githubusercontent.com/amit-shochat/AZUR-kub/master/KUB-yaml/yaml-DIFF-POD/count-DIFF
       
